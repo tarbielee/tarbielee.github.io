@@ -4,14 +4,14 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto Slab', serif;
-    /* background: url('giphy.gif') no-repeat ; */
-    /* background-size: cover; */
+    background: url('giphy.gif') no-repeat ; 
+     background-size: cover; 
 }
-.body-content{
+/* .body-content{
     background: url('giphy.gif') no-repeat 50% 70%;
     background-size: cover;
     height: 100vh;
-}
+} */
 
 a {
     cursor: pointer;
