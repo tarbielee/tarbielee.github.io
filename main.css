@@ -1,34 +1,5 @@
-/* Core Styles */
-body{
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    background-color: #6d4f3f;
-    color: #fff;
-    line-height: 1.5;
-    text-align: center;
-}
 
-ul{
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-img{
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-h1, h2, h3{
-    margin: 0;
-    padding: 25px 0;
-    color: #6d4f3f;
-}
-
-
-/* @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 body {
     margin: 0;
     padding: 0;
@@ -255,4 +226,4 @@ header {
     
 
 }
- */
+
